@@ -2,7 +2,7 @@
 ### Demonstrar Utilização do Conteúdo Explorado
 
 ### Gerar Chave SSH ###
-`keygen ssh`
+`ssh-keygen`
  * copiar e colar chave ssh publica no github
 
 1. Criação do Repositório
